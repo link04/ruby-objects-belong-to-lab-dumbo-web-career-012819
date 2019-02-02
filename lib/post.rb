@@ -1,4 +1,4 @@
-class Artist 
+class Post 
   
   attr_accessor :title, :author
   class initialize(:title)
