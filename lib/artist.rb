@@ -1,6 +1,6 @@
 class Artist 
   
-  attr_accessor :name, :genre
-  class initialize(:name,)
+  attr_accessor :name, 
+  class initialize(:nam,)
   end
 end
