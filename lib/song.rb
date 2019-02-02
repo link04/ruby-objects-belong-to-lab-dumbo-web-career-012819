@@ -1,4 +1,4 @@
-class Artist 
+class Song 
   
   attr_accessor :title, :artist
   class initialize(:title)
